@@ -1,4 +1,4 @@
-<h1 align="center">Josué Salazar</h1>
+<h1 align="center">Josue Salazar</h1>
 <h3 align="center">Founder & CEO · API SERVICE SAC &nbsp;|&nbsp; Creator of dooservice</h3>
 
 <p align="center">
