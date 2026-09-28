@@ -5,7 +5,7 @@
   <a href="https://dooservice.sh"><img src="https://img.shields.io/badge/dooservice.sh-2A7F8A?style=for-the-badge&logoColor=white" alt="dooservice.sh" /></a>
   <a href="https://dooprint.apiservicesac.com"><img src="https://img.shields.io/badge/Dooprint-F28A54?style=for-the-badge&logoColor=white" alt="Dooprint" /></a>
   <a href="https://apiservicesac.com"><img src="https://img.shields.io/badge/API_SERVICE_SAC-1462E8?style=for-the-badge&logoColor=white" alt="API SERVICE SAC" /></a>
-  <a href="https://joucode.apiservicesac.com/"><img src="https://img.shields.io/badge/joucode-111111?style=for-the-badge&logoColor=white" alt="joucode" /></a>
+  <a href="https://joucode.apiservicesac.com"><img src="https://img.shields.io/badge/joucode-111111?style=for-the-badge&logoColor=white" alt="joucode" /></a>
   <a href="https://linkedin.com/in/joucode"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <br />
   <a href="mailto:josuesp1620@gmail.com"><img src="https://img.shields.io/badge/josuesp1620@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="josuesp1620@gmail.com" /></a>
@@ -90,5 +90,5 @@ Printing for Odoo Community on the receipt printers of a shop, a kitchen or a wa
 ---
 
 <p align="center">
-  <sub>Lima, Peru 🇵🇪 · <a href="https://joucode.apiservicesac.com/">joucode.apiservicesac.com</a> · <a href="https://dooservice.sh">dooservice.sh</a> · <a href="https://dooprint.apiservicesac.com">dooprint.apiservicesac.com</a> · <a href="https://apiservicesac.com">apiservicesac.com</a></sub>
+  <sub>Lima, Peru 🇵🇪 · <a href="https://joucode.apiservicesac.com">joucode.apiservicesac.com</a> · <a href="https://dooservice.sh">dooservice.sh</a> · <a href="https://dooprint.apiservicesac.com">dooprint.apiservicesac.com</a> · <a href="https://apiservicesac.com">apiservicesac.com</a></sub>
 </p>
