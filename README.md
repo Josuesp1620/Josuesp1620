@@ -52,6 +52,8 @@ Printing for Odoo Community on the receipt printers of a shop, a kitchen or a wa
 | Project | Contribution |
 |---|---|
 | **[OCA/web](https://github.com/OCA/web)** · `web_responsive` | Migration to Odoo 20.0: Owl 3, QWeb templates and tests rewritten in Hoot. Proposed in [issue #3675](https://github.com/OCA/web/issues/3675) · [branch](https://github.com/Josuesp1620/web/tree/20.0-mig-web_responsive) |
+| **[odoo/odoo](https://github.com/odoo/odoo)** · `purchase` | Fix: the billed quantity converted from the bill line unit of measure was rounded up (0.59 instead of 0.58). Merged in 19.0, with automatic forward-ports to later versions · [PR #290828](https://github.com/odoo/odoo/pull/290828) |
+| **[odoo/odoo](https://github.com/odoo/odoo)** · `payment_mollie` | Fix: the webhook answered 200 when fetching the payment from Mollie failed, so Mollie stopped retrying and the transaction stayed in draft. It now answers 503 so Mollie retries. Merged in 19.0 · [PR #290812](https://github.com/odoo/odoo/pull/290812) |
 
 ---
 
